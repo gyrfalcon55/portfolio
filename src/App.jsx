@@ -86,8 +86,6 @@ function App() {
             />
           </div>
           <div className="profileGlow" aria-hidden="true" />
-          <div className="floatingCard fc1">RAG <small>Retrieval + LLMs</small></div>
-          <div className="floatingCard fc2">ML <small>Train → Track → Deploy</small></div>
         </div>
       </section>
 
