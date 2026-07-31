@@ -151,7 +151,7 @@ function App() {
               <a className="projectLink" target="_blank" rel="noreferrer" href="https://github.com/gyrfalcon55/Skin-Lesion-Diagnosis-and-Report-Generation">
                 <Github size={18} /> View repository <ExternalLink size={16} />
               </a>
-              <a className="projectLink" target="_blank" rel="noreferrer" href="http://20.207.200.159">
+              <a className="projectLink" target="_blank" rel="noreferrer" href="https://youtu.be/4wMtMKp6EUc">
                 <ExternalLink size={18} /> Live Demo
               </a>
             </div>
