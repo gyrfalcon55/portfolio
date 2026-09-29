@@ -90,7 +90,7 @@ function App() {
       </section>
 
       <section className="stats">
-        <div><strong>3</strong><span>Featured Projects</span></div>
+        <div><strong>4</strong><span>Featured Projects</span></div>
         <div><strong>1</strong><span>Certification</span></div>
         <div><strong>1</strong><span>AI-ML Internship</span></div>
         <div><a href={resumeUrl} target="_blank" rel="noreferrer"><strong>↗</strong><span>View Resume</span></a></div>
