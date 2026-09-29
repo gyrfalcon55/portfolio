@@ -24,6 +24,13 @@ const projects = [
     liveDemo: "https://youtu.be/4wMtMKp6EUc",
   },
   {
+    title: "Support Ticket Analytics",
+    description:
+      "An AI-powered customer support analytics platform that enables natural-language querying of support tickets using LangGraph, FastAPI, and SQLite. Detects resolution-time anomalies and overdue high-priority tickets, with interactive analytics through Streamlit",
+    tags: ["LangChain", "LangGraph", "SQLlite", "FastAPI"],
+    github: "https://github.com/gyrfalcon55/SupportTickets_Chatbot",
+  },
+  {
     title: "IMDB Sentiment Analysis",
     description:
       "End-to-end NLP and MLOps pipeline for 50,000 IMDB reviews, benchmarking four classifiers with RandomizedSearchCV, MLflow experiment tracking, DVC and FastAPI inference.",
